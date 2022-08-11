@@ -1,6 +1,6 @@
 # Restaurant details list
 
-This application allows you to add restaurant to your favourite restaurant list and sort and filter through the list.
+This application allows you to add restaurant to your favorite restaurant list and sort and filter through the list.
 
 <img src="https://github.com/Jasmine-Shaikh/restaurant-details-list/blob/master/Restaurant%20List%20%20Managing%20React%20App.PNG"/>
 
